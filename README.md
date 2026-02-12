@@ -32,7 +32,8 @@ The project demonstrates how AR can merge **physical collectibles with digital e
 - Detects flat surfaces in the environment
 - Spawns full-scale characters into the scene
 - Examples: Master Chief, Jinx
-![Demo](Groud-Detection-Demo.gif)
+![Demo](Ground-Detection-Demo.gif)
+
 ---
 
 ## Tech Stack
