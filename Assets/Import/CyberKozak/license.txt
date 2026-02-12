@@ -1,0 +1,11 @@
+Model Information:
+* title:	CyberKozak
+* source:	https://sketchfab.com/3d-models/cyberkozak-b7d41deb1a6649cf931589c3e6a5d3b5
+* author:	JustPringlez (https://sketchfab.com/justpringlez)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "CyberKozak" (https://sketchfab.com/3d-models/cyberkozak-b7d41deb1a6649cf931589c3e6a5d3b5) by JustPringlez (https://sketchfab.com/justpringlez) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

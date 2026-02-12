@@ -1,0 +1,11 @@
+Model Information:
+* title:	Simple Mantis Blade
+* source:	https://sketchfab.com/3d-models/simple-mantis-blade-b1570200bfc945969d9c55e540b16f01
+* author:	Budørskin (https://sketchfab.com/UDORBUSK)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Simple Mantis Blade" (https://sketchfab.com/3d-models/simple-mantis-blade-b1570200bfc945969d9c55e540b16f01) by Budørskin (https://sketchfab.com/UDORBUSK) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
