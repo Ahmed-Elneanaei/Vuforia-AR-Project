@@ -14,7 +14,7 @@ The project demonstrates how AR can merge **physical collectibles with digital e
 - Recognizes physical game covers and printed media  
 - Overlays high-fidelity 3D models and video trailers  
 - Examples: *The Witcher 3*, *Cyberpunk 2077*
-![Demo](Ground Detection Demo.gif)
+![Demo](Ground-Detection-Demo.gif)
 
 
 
