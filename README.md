@@ -44,7 +44,7 @@ https://youtu.be/kuQW_EBpWeo
 
 | Component | Technology |
 |-----------|------------|
-| Engine | Unity 2022.x |
+| Engine | Unity 6000.x |
 | AR Framework | Vuforia Engine 10.x |
 | Language | C# |
 | Asset Management | Git LFS |
