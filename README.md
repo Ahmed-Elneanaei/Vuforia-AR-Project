@@ -14,10 +14,7 @@ The project demonstrates how AR can merge **physical collectibles with digital e
 - Recognizes physical game covers and printed media  
 - Overlays high-fidelity 3D models and video trailers  
 - Examples: *The Witcher 3*, *Cyberpunk 2077*
-![Demo](Ground-Detection-Demo.gif)
-
-
-
+![Demo](Object-Marker-Demo.gif)
 
 ### Dynamic UI System
 - Custom-built main menu
@@ -35,7 +32,7 @@ The project demonstrates how AR can merge **physical collectibles with digital e
 - Detects flat surfaces in the environment
 - Spawns full-scale characters into the scene
 - Examples: Master Chief, Jinx
-
+![Demo](Groud-Detection-Demo.gif)
 ---
 
 ## Tech Stack
