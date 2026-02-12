@@ -6,7 +6,11 @@ By scanning real-world objects such as game cases or flat surfaces, the app over
 
 The project demonstrates how AR can merge **physical collectibles with digital experiences**, creating immersive and interactive showcases.
 
----
+
+## Project Showcase
+
+### Watch the Full Demo
+https://youtu.be/kuQW_EBpWeo
 
 ## Features
 
@@ -56,4 +60,5 @@ Tracked assets include:
 - High-poly 3D models (`.fbx`, `.obj`)
 - High-resolution textures
 - Video files
+
 
